@@ -14,3 +14,8 @@
 <h3 align="center"> iphone) Detail-Page 
   
 ![detail2](https://user-images.githubusercontent.com/66048317/94666900-049fa780-0349-11eb-8641-926e23bc47da.jpg)
+
+
+<hr>
+
+GyuryHan/github.io/movie_app
