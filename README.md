@@ -18,4 +18,4 @@
 
 <hr>
 
-https://GyuryHan/github.io/movie_app
+GyuryHan.github.io/movie_app
